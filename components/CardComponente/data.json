@@ -1,0 +1,40 @@
+[
+    {
+      "name": "Sensor 1",
+      "status": "alarma",
+      "sensores": [
+        {
+          "Nombre": "Temperatura",
+          "Lectura": 25,
+          "Unidad": "°C"
+        },
+        {
+          "Nombre": "Humedad",
+          "Lectura": 60,
+          "Unidad": "%"
+        }
+      ]
+    },
+    {
+      "name": "Sensor 2",
+      "status": "desconetado",
+      "sensores": [
+        {
+          "Nombre": "desconetado",
+          "Lectura": 1013,
+          "Unidad": "hPa"
+        }
+      ]
+    },
+    {
+        "name": "Sensor 3",
+        "status": "enlinea",
+        "sensores": [
+          {
+            "Nombre": "Presión",
+            "Lectura": 1013,
+            "Unidad": "hPa"
+          }
+        ]
+      }
+  ]
